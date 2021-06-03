@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A second narrative of the signal victory which it pleased Almighty God to bestow upon His Majesties navy under the command of His Royal Highnes the Duke of York against the states-fleet of the United Neatherlands. On the third of June, 1665. Licen[s]ed June 10. by Roger L'Estrange</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58985</idno><idno type="EEBO-CITATION">99832354</idno>
+  <idno type="VID">36827</idno>
+  <idno type="EEBO-PROQUEST">2240906644</idno>
+  
+            <idno type="STC">Wing S2293A</idno>
+            <idno type="STC">ESTC R220971</idno>
+            <idno type="PROQUEST">99832354</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832354e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2058:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A second narrative of the signal victory which it pleased Almighty God to bestow upon His Majesties navy under the command of His Royal Highnes the Duke of York against the states-fleet of the United Neatherlands. On the third of June, 1665. Licen[s]ed June 10. by Roger L'Estrange</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Richard Hodgkinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M.DC.LXV. [1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect; pages stained with print show-through with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term type="topical_term">Anglo-Dutch War, 1664-1667 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36827:1"/>
+            <p>A SECOND NARRATIVE OF THE Signal Victory Which it pleased Almighty GOD to bestow UPON HIS MAJESTIES NAVY Under the Command of <hi>HIS ROYAL HIGHNES</hi> THE DUKE of YORK <hi>AGAINST</hi> The STATES-FLEET of the <hi>Ʋnited Neatherlands.</hi> On the Third of <hi>June,</hi> 1665.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Licen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ed</p>
+                           <closer>
+                              <dateline>
+                                 <date>
+                                    <hi>June</hi> 10.</date>
+                              </dateline>
+                              <signed>by <hi>ROGER L'ESTRANGE</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Richard Hodgkinson</hi> M.DC.LXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:36827:2"/>
+            <pb facs="tcp:36827:2"/>
+            <head>
+               <hi>A</hi> SECOND NARRATIVE <hi>of the SIGNAL VICTORY,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS <hi>Royal Highness,</hi> after his Return from the Coast of <hi>Holland,</hi> where he had lain before the <hi>Texell,</hi> taken their Merchants Ships, and used all possible means to provoke the <hi>Dutch</hi> to a Battle, having certain Intelli<g ref="char:EOLhyphen"/>gence, not only that the <hi>Dutch Fleet</hi> had taken the Sea, but that they publiquely declared their intentions of seeking out the <hi>English Fleet;</hi> and farther, that the <hi>Good Hope</hi> with their <hi>Convoys</hi> from <hi>Ham<g ref="char:EOLhyphen"/>burgh</hi> had unfortunately fallen into their hands, judging that all these Cir<g ref="char:EOLhyphen"/>cumstances might tend to the disreputa<g ref="char:EOLhyphen"/>tion of His Majesties Affairs, became very impatient of all delays; and though many of the Provisions necessary for the <hi>Fleet</hi> were not yet on board, His <hi>Royal Highness</hi> resolved to carry the <hi>Fleet</hi> from the <hi>Gunfleet</hi> near <hi>Harwich</hi> to <hi>Sowld Bay,</hi>
+               <pb n="4" facs="tcp:36827:3"/>and there to take in the remainder of vi<g ref="char:EOLhyphen"/>ctuals and other stores; that being a more open place, and therefore more proper for going out to the <hi>Dutch,</hi> in case they should attempt to make any <hi>Bravado</hi> up<g ref="char:EOLhyphen"/>on the <hi>English Coast.</hi> In prosecution there<g ref="char:EOLhyphen"/>fore of that Resolution, the <hi>Fleet</hi> weigh<g ref="char:EOLhyphen"/>ed anchor at high water on the 30 of <hi>May</hi> (carrying with them the <hi>victualling ships</hi> and other stores) the wind being at <hi>South East,</hi> but it did not long continue so, but <hi>veered</hi> to the <hi>East South-east, East,</hi> and <hi>East North-east,</hi> so that we were forced to stop Tydes, and using all our endevors we could not arrive at <hi>Sowld Bay</hi> til <hi>June</hi> the <hi>first</hi> about 6 in the <hi>morning,</hi> where we anchored about 5 miles from the shore.</p>
+            <p>Between <hi>Twelve</hi> and <hi>One</hi> of the clock this day, his <hi>Royal Highness</hi> being at din<g ref="char:EOLhyphen"/>ner, news was brought that a great <hi>Fleet</hi> was discovered to the <hi>East, South-east</hi> of us, about some <hi>six leagues</hi> off, which con<g ref="char:EOLhyphen"/>cluding
+<pb n="5" facs="tcp:36827:3"/>to be the <hi>Dutch,</hi> his <hi>Royal High<g ref="char:EOLhyphen"/>ness</hi> ordered the <hi>Victuallers</hi> to <hi>Harwich,</hi> and the <hi>Fleet</hi> to <hi>weigh,</hi> and to get farther off the shore, which was done according<g ref="char:EOLhyphen"/>ly till the Flood; when we came again to an anchor, the <hi>Dutch</hi> kept under Sail, and endevoured to keep to the <hi>South-east,</hi> and <hi>East South-east</hi> of us. At <hi>Ten</hi> of the clock <hi>that night,</hi> we weighed anchor again, the wind being at <hi>East,</hi> We did our best to get up to the <hi>Dutch Fleet,</hi> but they being to windward of us, it did not depend up<g ref="char:EOLhyphen"/>on our choice, so that the <hi>Dutch</hi> keeping upon a wind, in the <hi>morning, June</hi> 2. we saw them about 5 <hi>leagues South east</hi> from us, the wind varying from the <hi>South east</hi> to <hi>South South-east, South</hi> and <hi>South South-west.</hi> At <hi>eight</hi> in the <hi>Evening Lestoff</hi> bore <hi>North-west</hi> about <hi>eight leagues</hi> off, and the <hi>Dutch Fleet</hi> was then about 3 <hi>leagues</hi> off, standing off with their <hi>Star-board</hi> Tacks on <hi>board,</hi> and we stood after them, but they stayed not for us.</p>
+            <pb n="6" facs="tcp:36827:4"/>
+            <p>There was a great desire in the <hi>Fleet</hi> to have engaged the <hi>Dutch this day,</hi> which had <hi>twelve years since</hi> been so fortunate to the <hi>English</hi> against the <hi>same Enemy;</hi> what other reason, besides the ill fortune of that day, the <hi>Dutch</hi> could have to decline the fighting us, then when they might have had the wind of us, we can neither con<g ref="char:EOLhyphen"/>jecture, nor learn from any of the Priso<g ref="char:EOLhyphen"/>ners since taken. <hi>This Evening</hi> one of the Enemies <hi>Sternmost Ships</hi> was <hi>fired,</hi> some of our men perswaded themselves it was one of their <hi>Admirals,</hi> but we since under<g ref="char:EOLhyphen"/>stand by Prisoners it was one of their <hi>Fireships,</hi> which took fire before her time by the drunkenness of her Commander: Whatever it was, our men believed the best, and as it was no small joy to see an Enemies Ship so easily destroyed; so they took it for a <hi>good Omen</hi> of a <hi>future Victory.</hi>
+            </p>
+            <p>This night we kept sight of the <hi>Enemy</hi>
+               <pb n="7" facs="tcp:36827:4"/>all night, and the wind <hi>veering</hi> to the <hi>South-west,</hi> between <hi>two</hi> and <hi>three</hi> of the clock in the <hi>morning, June</hi> 3. we lay to <hi>weather</hi> of the <hi>Dutch Fleet,</hi> which they perceiving, tacked and stood with us, but could not <hi>weather us;</hi> being as we suppose about <hi>fourteen leagues</hi> from <hi>Lestoffe, South-east southerly.</hi> At half an hour past <hi>three</hi> in the <hi>morning</hi> the Battle began: <hi>Prince Ruperts Squadron</hi> having the <hi>Van,</hi> and of that Squadron <hi>Vice-Admiral Mings;</hi> His <hi>Royal Highnesse's</hi> Squadron was in the <hi>Body,</hi> and that of the Earl of <hi>Sandwich</hi> in the <hi>Rear:</hi> The first salutes the <hi>Dutch</hi> re<g ref="char:EOLhyphen"/>ceived from <hi>Prince Rupert</hi>'s Squadron, (animated by the example as well as or<g ref="char:EOLhyphen"/>ders of that valiant Prince) made them doubt whether the victory over the <hi>Eng<g ref="char:EOLhyphen"/>lish</hi> were either so certain, or so easie, as the <hi>Heer de Wit;</hi> and their other Coun<g ref="char:EOLhyphen"/>try-men who were to stay at home, had perswaded them, <hi>Both Fleets</hi> having pas<g ref="char:EOLhyphen"/>sed
+<pb n="8" facs="tcp:36827:5"/>thus by one the other in a Line, there was for a considerable time a perfect quiet without shooting one Gun; About <hi>six</hi> of the clock, we tacked, and stood to the <hi>West, North-west;</hi> and they to the <hi>South, South-east,</hi> and passed by one the other, there being again an intermission from shooting; Upon this Tack, the <hi>Dutch</hi> endeavoured to get the wind of us which they hoped to have done, which his <hi>Royal Highness</hi> foreseeing, they would endevour, kept so close to the wind, that when the <hi>Dutch tacked,</hi> hoping to <hi>weather Prince Rupert,</hi> they found his <hi>Royal Highness</hi> to <hi>weather</hi> them, and therefore rather then pass between <hi>two</hi> Lines of our <hi>Fleet,</hi> they chose to bear to <hi>Leeward</hi> of <hi>Prince Rupert.</hi> We stood not long that way, but his <hi>Royal Highness</hi> ordered the <hi>Reer</hi> of His <hi>Majesties Fleet</hi> to <hi>tack</hi> first, that so we might the better and sooner get up with the <hi>headmost</hi> of <hi>their Fleet.</hi>
+            </p>
+            <pb n="9" facs="tcp:36827:5"/>
+            <p>This was not done without some intermix<g ref="char:EOLhyphen"/>ture of the Ships of the several Squadrons; but yet without any considerable prejudice. This being executed, his <hi>Royall Highness</hi> making Sail with his <hi>Squadron,</hi> he came to be the <hi>Headmost Squadron</hi> of the Line, and had Sir <hi>John Lawson,</hi> with some other Ships of his Squadron a head of him, with which keeping up to the <hi>Headmost</hi> of the <hi>Enemies</hi> Ships, we kept them to <hi>Leeward</hi> of us, and never suffered them to tack, but kept the wind of them the whole day. The Fight continued long, and the <hi>Dutch</hi> made very con<g ref="char:EOLhyphen"/>siderable resistance: but it was observed, That as we bore in upon them, they altered their course, so that whereas they might have layn up <hi>South South-east,</hi> they bore off to the <hi>East South-east.</hi> His <hi>Royall Highness</hi> who had observed in the beginning of the Battle, the endeavour of the <hi>Dutch</hi> to get the wind, and by what means it was prevented, and also the g eat benefit we had by it, by securing us against the Enemies <hi>Fire-ships,</hi> (in which they had placed a great part of their hopes) had always a regard to the keeping that advantage which God had so fa<g ref="char:EOLhyphen"/>vourably given us; which with the concurrence of another accident, did somewhat prolong the <hi>Battel.</hi> The continual smoak would not give
+<pb n="10" facs="tcp:36827:6"/>us leave to see very far before us what the Ene<g ref="char:EOLhyphen"/>my did; and therefore the Actions of <hi>Others,</hi> were in some measure to be the guide even of the <hi>Admiral:</hi> his <hi>Royal Highness</hi> therefore ha<g ref="char:EOLhyphen"/>ving seen Sir <hi>John Lawson</hi> with his accustomed Valour bear in towards the Enemies Line, but soon after to edge off again to windward, con<g ref="char:EOLhyphen"/>cluded that Sir <hi>John Lawson</hi> had seen some of the Enemies Ships endeavouring to get the Wind of us, and therefore to prevent That, his <hi>Royal Highness</hi> kept near the Wind, which was a guide to the whole Fleet. But this mistake was understood a little while after, by a Mes<g ref="char:EOLhyphen"/>sake from Sir <hi>John Lawson,</hi> who privately sent to give his <hi>Royal Highness</hi> an accompt <hi>that he was hurt,</hi> and for that time uncapable of service, <hi>(though, thanks be to God, without danger of life)</hi> so that we perceived the Working his Ship, which led us into that Errour, <hi>was through the want of their Commander,</hi> the Master being also hurt. His <hi>Royal Highness</hi> therefore ordered Captain <hi>Jordon</hi> to go on board the <hi>Royal Oak;</hi> after which <hi>She</hi> did excellent good service. This Error being now perceived, and about the same time <hi>Opdams</hi> Ship (which was known by a <hi>Pendant</hi> under his <hi>Flagg</hi>) coming up to lie almost opposite <hi>in their Line</hi> to his <hi>Royal High<g ref="char:EOLhyphen"/>ness</hi>
+               <pb n="11" facs="tcp:36827:6"/>Ship in <hi>Ours;</hi> His <hi>Royal Highness</hi> was plea<g ref="char:EOLhyphen"/>sed to give command to bear up to him, say<g ref="char:EOLhyphen"/>ing, <hi>He would himself have a Bout with</hi> Opdam, (for so he termed it.) In which being obey'd, and the whole Fleet taking example by the working of his <hi>Royal Highness</hi> Ship, we began to ply our Guns at so near a distance, that the Enemy began to shrink apace, though not ab<g ref="char:EOLhyphen"/>solutely to run. Whilst things were in this condition, it pleased God (who had through the whole Conduct of this great Business won<g ref="char:EOLhyphen"/>derfully favoured us) by an extraordinary O<g ref="char:EOLhyphen"/>peration of his Almighty hand to facilitate our Work; and to shorten the danger to which his <hi>Royal Highness</hi> had resolved to expose his own Person, by the <hi>blowing up of Opdams Ship;</hi> which as it was a great joy to the <hi>English,</hi> so it could not but infinitely discourage the <hi>Enemy,</hi> who did not stand long after, but (we bearing in upon them, presently fled, we following them, and taking and burning their Ships until night; when not being able to do any more service up<g ref="char:EOLhyphen"/>on them, we onely endeavoured to keep so much sight of them, as to be up with them in the morning, when we again followed the pursuit (taking divers of their Ships) unto the very mouth of the <hi>Texel,</hi> where their Ships getting
+<pb n="12" facs="tcp:36827:7"/>into Shoal water, and being perfectly acquain<g ref="char:EOLhyphen"/>ted with the place, we durst not adventure so near the shore with our Ships, which were not in condition to bear much Sail, if there should have been need for bringing them off again. We staid in sight of the <hi>Texel</hi> till we saw their Ships go in which they did not neglect to do the first Tide.</p>
+            <p>In the beginning of the Battle, two of our Ships, not being able to <hi>weather</hi> the <hi>Enemy,</hi> fell into their Fleet; the <hi>One</hi> (which was the <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> a Ship taken from the <hi>Dutch</hi> in the last War) tacked, hoping thereby to help her self, but was taken; the <hi>Other</hi> a <hi>Merchant Ship</hi> in the Kings Service, called the <hi>John and Abigal.</hi> Captain <hi>Joseph Saunders, Commander,</hi> finding himself a<g ref="char:EOLhyphen"/>mongst them, resolved to stand the same way with our own Fleet, and to receive the Enemies Broadsides, which he had so near, as with them to receive their Threats also, and was honored with a Broadside from <hi>Opdams</hi> own Ship, and a <hi>Vice-Admiral,</hi> betwixt which he lay: but the Enemy was too much in naste to attend one sin<g ref="char:EOLhyphen"/>gle Ship; so that with a considerable losse of Men, and the battering of his <hi>Ship, Masts, Rig<g ref="char:EOLhyphen"/>ging,</hi> and <hi>Sails,</hi> he came safe to his Majesties Fleet. During the Battle; there came in to us three of his <hi>Majesties Ships</hi> returned from the
+<pb n="13" facs="tcp:36827:7"/>
+               <hi>Sound,</hi> as also the <hi>Leopard</hi> from <hi>Harwich:</hi> To the <hi>Dutch</hi> came <hi>young Evertson</hi> with <hi>three Ships.</hi>
+            </p>
+            <p>To give an account of the particular Actions of his Majesties Commanders, would be not onely tedious, but prove injurious to many; whose merits would seem less, if not named; nor would it be less injurious to all those who have done well, (if any Actions were to be particularized) not to name (with reproach) those who have been wanting to their Duty. Let it therefore suffice for an evidence of the bravery of his Majesties Commanders in general, that the <hi>Invicible Dutch Fleet</hi> is by them <hi>overcome;</hi> though I will not conceal from you, that I hear it said, his <hi>Royal Highness</hi> doth not think it sufficient that they do bet<g ref="char:EOLhyphen"/>ter then the <hi>Dutch,</hi> but wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l expect that they <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ll do as be<g ref="char:EOLhyphen"/>cometh <hi>English men;</hi> and therefore it is thought, this occa<g ref="char:EOLhyphen"/>sion having made some discovery of the tempers of some men, who could not be known b fore, some <hi>alterations</hi> will be even amongst the <hi>Victorious:</hi> for the generally of the <hi>English Seamen,</hi> it is certain, that greater of more valiant hearts are not to be found in any Race of men; nor more indefatigable: of which a greater instance could not be, then this Battle, which was of such continuance, that if separated from the <hi>labour,</hi> the <hi>danger</hi> alone would have been insupportable to any other sort of men; and perhaps would have been so to them also, had not the danger awakened their courages, and re-doubled their spirits.</p>
+            <p>Having told you of a Ship of his Majesties lost; if I should give over here, you might think we had lost by the Victory; and there<g ref="char:EOLhyphen"/>fore it is necessary to give you some account
+<pb n="14" facs="tcp:36827:8"/>of the <hi>Enemies Loss,</hi> and <hi>Our Gain;</hi> which ne<g ref="char:EOLhyphen"/>vertheless, in the present uncertainty; you must give me leave to do as Accomptants use, with a <hi>reserve</hi> of <hi>(errors excepted)</hi> endeavouring not<g ref="char:EOLhyphen"/>withstanding so far as maybe, to tell you nothing for certain which is not so. First, Then you must know, that besides <hi>Opdams</hi> Ship (which we saw blown up, and besides, have since spoken with some of the Men which were saved) There was taken, and afterwards fired (that so she might not clog us in the pursuit) the <hi>Orange Tree,</hi> a Ship of 76. <hi>Guns.</hi> There were after<g ref="char:EOLhyphen"/>wards four of their Ships, in the pursuit, fell foul the one of the other, and were by one of his Majesties <hi>Fire Ships</hi> set on fire, one of them was the Ship <hi>Couverden,</hi> in which was <hi>Tromps Vice Admiral, Gillis Tysse Campen,</hi> carrying 60. <hi>Guns, The Prince Maurice, Cap. de Clerk,</hi> car<g ref="char:EOLhyphen"/>rying 50. <hi>Guns; The Stodt Ʋtrecht, Cap. Ou<g ref="char:EOLhyphen"/>dart,</hi> 44 <hi>Guns;</hi> And a fourth, which was, I think, called the <hi>Stedan,</hi> carrying about 40. <hi>Guns:</hi> After these were all on fire, and our Ships passed by, one of them burning to her Powder, blew up, and with the blast, blew a<g ref="char:EOLhyphen"/>way all the <hi>Rigging, Masts, &amp;c.</hi> of one of them of about 40. <hi>Guns,</hi> which was on fire, and so enabled some of the <hi>Dutch,</hi> who remained there
+<pb n="15" facs="tcp:36827:8"/>to quench the fire, and fave the Ship, at least to preserve their own lives till some of their Ships passed that way; but whether they towed Her into Harbour; or not, we know not: An acci<g ref="char:EOLhyphen"/>dent very extraordinary, and which it was not reasonable to expect or provide against. This was obterved by some of the Boats and Ketches which were sent to save the lives of the poor men, who were left to the two unmerciful Ele<g ref="char:EOLhyphen"/>ments. A little after this, were likewise burned by another Fire-ship, three Ships which were faln foul one of another, the one called <hi>Massee<g ref="char:EOLhyphen"/>ven, Jacob Rowse Commander,</hi> of 78 <hi>Guns,</hi> the <hi>Ter<g ref="char:EOLhyphen"/>goes,</hi> of 34 <hi>Guns,</hi> and <hi>Cap. Cuypers</hi> Ship of 30 <hi>Guns.</hi>
+            </p>
+            <p>Of Ships taken, am not able to give you a perfect account, in regard some are (as we hear) gone directly for <hi>England,</hi> and others not yet come to the Fleet: Some of the Ships taken, are,
+<list>
+                  <item>The <hi>Mars,</hi> 46 Guns.</item>
+                  <item>The <hi>Zeeland,</hi> 44 Guns.</item>
+                  <item>The <hi>Carolus Quintus,</hi> 53 Guns.</item>
+                  <item>The <hi>Delft,</hi> 32 Guns.</item>
+                  <item>The <hi>Nagelboome,</hi> 52 Guns.</item>
+               </list>
+            </p>
+            <p>We hear of others taken by other Ships, of which we have not the Names, but do conclude, we have destroyed them 23, or 24 Men of <hi>War,</hi> at the least; by the next you shall have a more perfect account.</p>
+            <pb n="16" facs="tcp:36827:9"/>
+            <p>According to what we learn from the Prisoners, there were slain of the <hi>Dutch Commanders</hi> of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ote (besides <hi>Opdam</hi>) <hi>Cortenaer, Stelling werf, Schram;</hi> and (most say) <hi>Tromp:</hi> but for the certainty of this, the Curious must expect Letters from <hi>Holland.</hi>
+            </p>
+            <p>
+               <hi>On Our Part,</hi> were slath the <hi>Earl</hi> of <hi>Marlebrough, Rear Admiral Sansum, Captain Ableson,</hi> and <hi>Captain Kirbye, Commanders;</hi> Of <hi>Voluntiers</hi> of Note, fell the <hi>Earl</hi> of <hi>Portland, Earl</hi> of <hi>Falmouth, Lord Mus<g ref="char:EOLhyphen"/>kery,</hi> and Mr. <hi>Boyle,</hi> second Son to the <hi>Earl</hi> of <hi>Burlington.</hi> (The <hi>Three last</hi> by one fatal shot) I cannot find that the <hi>Dutch Commanders</hi> taken, can give any exact account of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he number of Ships in their Fleet, that which they seem most perswa<g ref="char:EOLhyphen"/>ded of, is, That they had about <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>0 <hi>Sail</hi> besides <hi>Fire-ships.</hi> I believe the Kings Fleet was stithin very few of 100 <hi>Sail;</hi> a force worthy on either side to contend for so great a Stake.</p>
+            <p>The number of Men <hi>killed</hi> and <hi>taken</hi> from the <hi>Dutch,</hi> I conjecture may be about 8000. What the number on the side of the <hi>English</hi> are, I have not yet heard computed; but by the conjectures which may be raised from the accompt of some of the Ships which were in the hottest of the Action, it may be concluded, that never was so great a Victory obtained against the <hi>Dutch,</hi> with so small loss on the side of the <hi>English.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36827:9"/>
+            <pb facs="tcp:36827:10"/>
+            <pb facs="tcp:36827:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
